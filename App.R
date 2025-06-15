@@ -91,9 +91,8 @@ server <- function(input, output, session) {
       "Mean: ", signif(df$mean_concentration, 4), " µg/L\n",
       "n = ", df$n
     )
-    assign("df0",df,.GlobalEnv)
-    
-    gvisGeoChart(df0,
+
+    gvisGeoChart(df,
                  locationvar = "Name of country",
                  colorvar = "log_mean",
                  hovervar = "tooltip",
