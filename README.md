@@ -1,4 +1,4 @@
-# NSAIDs_EMPODAT
+# NSAIDs in Chemical Occurrence Database (EMPODAT)
 
 This repository contains the dataset, supplementary analysis and visualization files supporting the manuscript "Regulatory aspects of risks posed by veterinary medicinal products to European necrophagous birds: a case study with nonsteroidal anti-inflammatory drugs (NSAIDs)".
 
